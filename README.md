@@ -24,6 +24,8 @@ The classification results for SincMSNet and other competing architectures are a
 
 ## References:
 
+*Liu, Ke and Yang, Mingzhao and Yu, Zhuliang and Wang, Guoyin and Wu, Wei. FBMSNet: A Filter-Bank Multi-Scale Convolutional Neural Network for EEG-Based Motor Imagery Decoding. IEEE Transactions on Biomedical Engineering, 70(2):436–445, 2023. https://ieeexplore.ieee.org/document/9837422*
+
 *Ravikiran Mane, Effie Chew, Karen Chua, Kai Keng Ang, Neethu Robinson, A.P. Vinod, Seong-Whan Lee, and Cuntai Guan, **"FBCNet: An Efficient Multi-view Convolutional Neural Network for Brain-Computer Interface,"** arXiv preprint arXiv:2104.01233 (2021) https://arxiv.org/abs/2104.01233*
 
 ## Acknowledgment
